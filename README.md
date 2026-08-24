@@ -113,18 +113,27 @@ skills for software development and placements.
 
 ## 🚀 Featured Projects
 
-### 🗑️ SwachhLens
+## 🗑️ SwachhLens
 
-> Smart municipal waste management system powered by MongoDB Atlas and                                  Link->https://swachhlens-six.vercel.app/
-> Google Gemini API.
+> Smart municipal waste management system powered by **MongoDB Atlas** and **Google Gemini API**.
 
-**Features**
+🔗 **Live Demo:** [SwachhLens](https://swachhlens-six.vercel.app/)
+
+### ✨ Features
 
 * 🧹 Sanitation complaint management
 * 📊 Intelligent data analysis
-* 🤖 Gemini AI integration
+* 🤖 Google Gemini AI integration
 * 🗄️ MongoDB Atlas database
 * 🌐 Full-stack web architecture
+
+### 🛠️ Tech Stack
+
+`JavaScript` `Node.js` `Express.js` `MongoDB` `Gemini API`
+
+### 🔗 Links
+
+[🌐 Live Demo](https://swachhlens-six.vercel.app/) • [💻 Source Code](https://github.com/SanjayGhosh93/SwachhLens)
 
 ---
 
