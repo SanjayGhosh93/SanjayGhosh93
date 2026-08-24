@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://sanjay-ghosh-portfolio.vercel.app/">
+<a href="">
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge">
 </a>
 <a href="https://www.linkedin.com/in/sanjay-ghosh70/">
@@ -212,7 +212,7 @@ skills for software development and placements.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://sanjay-ghosh-portfolio.vercel.app/">
+<a href="">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
