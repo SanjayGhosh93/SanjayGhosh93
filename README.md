@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 
-<img src="https://avatars.githubusercontent.com/u/216396028?v=4" width="220" height="220" style="border-radius: 50%;">
+<img src="https://res.cloudinary.com/simiw6tm/image/upload/v1787556304/7809a873-1ec8-4f9c-9547-991712e6461a.png" width="220" height="220" style="border-radius: 50%;">
 
 # 👋 Sanjay Ghosh
 
