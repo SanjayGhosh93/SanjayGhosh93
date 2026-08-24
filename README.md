@@ -115,7 +115,7 @@ skills for software development and placements.
 
 ### 🗑️ SwachhLens
 
-> Smart municipal waste management system powered by MongoDB Atlas and
+> Smart municipal waste management system powered by MongoDB Atlas and                                  Link->https://swachhlens-six.vercel.app/
 > Google Gemini API.
 
 **Features**
