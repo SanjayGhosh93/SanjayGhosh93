@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 
-<img src="YOUR_PROFILE_IMAGE_URL" width="220" height="220" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/u/216396028?v=4" width="220" height="220" style="border-radius: 50%;">
 
 # 👋 Sanjay Ghosh
 
@@ -10,13 +10,13 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sanjay-ghosh-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_PORTFOLIO-000000?style=for-the-badge">
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sanjay-ghosh70/">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="YOUR_EMAIL">
+<a href="sanjayghosh7120@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/SanjayGhosh93">
@@ -208,15 +208,15 @@ skills for software development and placements.
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/sanjay-ghosh70/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://sanjay-ghosh-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="YOUR_EMAIL">
+<a href="sanjayghosh7120@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
