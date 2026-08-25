@@ -199,19 +199,19 @@ skills for software development and placements.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SanjayGhosh93&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SanjayGhosh93&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayGhosh93&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SanjayGhosh93&layout=compact&theme=tokyonight&hide_border=true" width="48%">
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayGhosh93&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://streak-stats.demolab.com?user=SanjayGhosh93&theme=tokyonight&hide_border=true" width="70%">
 
 </div>
 
@@ -221,7 +221,7 @@ skills for software development and placements.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayGhosh93&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayGhosh93&theme=tokyo-night&hide_border=true&area=true" width="100%">
 
 </div>
 
