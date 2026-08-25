@@ -82,6 +82,8 @@ skills for software development and placements.
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
+<img src="https://img.shields.io/badge/DOM_Manipulation-E34F26?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 ### 🟢 Backend
@@ -90,6 +92,7 @@ skills for software development and placements.
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white">
 </p>
 
 ### 🗄️ Database
@@ -100,15 +103,50 @@ skills for software development and placements.
 <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### ☁️ Tools & Cloud
+### 🔌 APIs & Integration
+
+<p>
+<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/OpenWeatherMap_API-EB6E4C?style=for-the-badge&logo=googlecloud&logoColor=white">
+<img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
+
+### 🧰 Tools & Development
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
+### ☁️ Cloud & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
+
+### 🧠 Computer Science
+
+<p>
+<img src="https://img.shields.io/badge/DSA-FF6B35?style=for-the-badge">
+<img src="https://img.shields.io/badge/Problem_Solving-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Algorithms-00A98F?style=for-the-badge">
+</p>
+
+### 🔗 Development Concepts
+
+<p>
+<img src="https://img.shields.io/badge/API_Integration-02569B?style=for-the-badge">
+<img src="https://img.shields.io/badge/CRUD_Operations-4CAF50?style=for-the-badge">
+<img src="https://img.shields.io/badge/Database_Design-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Responsive_Design-7952B3?style=for-the-badge">
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -193,11 +231,32 @@ skills for software development and placements.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Problem_Solving-Learning-00D9FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Competitive_Programming-In_Progress-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/☕_JAVA_DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/🧩_DATA_STRUCTURES-007ACC?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡_ALGORITHMS-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/💡_PROBLEM_SOLVING-00D9FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🎯_INTERVIEW_PREPARATION-28A745?style=for-the-badge">
+<img src="https://img.shields.io/badge/🚀_COMPETITIVE_PROGRAMMING-IN_PROGRESS-F7DF1E?style=for-the-badge&logoColor=black">
 
 </div>
+
+### 📚 DSA Topics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Arrays-FF6B35?style=for-the-badge">
+<img src="https://img.shields.io/badge/Strings-00A98F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Sorting-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Binary_Search-007ACC?style=for-the-badge">
+<img src="https://img.shields.io/badge/Recursion-7952B3?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linked_List-28A745?style=for-the-badge">
+<img src="https://img.shields.io/badge/Stack_&_Queue-E34F26?style=for-the-badge">
+<img src="https://img.shields.io/badge/Trees-47A248?style=for-the-badge">
+<img src="https://img.shields.io/badge/Graphs-02569B?style=for-the-badge">
+
+</div>
+
+> 🧠 **Currently improving:** Data Structures, Algorithms, Java & problem-solving skills for software engineering interviews.
 
 ---
 
