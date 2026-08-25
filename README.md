@@ -221,7 +221,7 @@ skills for software development and placements.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayGhosh93&theme=tokyo-night&hide_border=true&area=true" width="100%">
+[![Sanjay Ghosh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjayGhosh93)](https://github.com/SanjayGhosh93)
 
 </div>
 
