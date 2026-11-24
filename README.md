@@ -2,7 +2,7 @@
 
 <!-- Profile Image -->
 
-<img src="https://res.cloudinary.com/simiw6tm/image/upload/v1787556304/7809a873-1ec8-4f9c-9547-991712e6461a.png" width="220" height="220" style="border-radius: 50%;">
+<img src="https://res-console.cloudinary.com/pjahfbvy/thumbnails/transform/v1/image/upload/Y19maWxsLGhfMjAwLHdfMjAw/v1/V2hhdHNBcHBfSW1hZ2VfMjAyNi0xMS0yNF9hdF84LjE0LjA0X1BN/template_primary" width="220" height="220" style="border-radius: 50%;">
 
 # 👋 Sanjay Ghosh
 
